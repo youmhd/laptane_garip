@@ -1,0 +1,28 @@
+body {
+    background-color: aquamarine;
+    background-size: cover;
+    background-image: url("Design/th.jpg");
+}
+
+h1 {
+    text-align: center;
+}
+
+nav {
+    height: 40px;
+    width: 100%;
+    border-bottom: solid 2px rgb(92, 88, 67);
+    background-color: rgb(129, 236, 236);
+    position: sticky;
+    top: 0%;
+}
+
+ul {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    height: 100%;
+}
